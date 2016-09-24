@@ -1,6 +1,6 @@
 # Content Search Category for Telligent Community
 
-![Build Status](https://ardourdigital.visualstudio.com/_apis/public/build/definitions/8b5ba8e6-4059-46da-8ac1-e2bcf922c889/5/badge)
+![Build Status](https://ardourdigital.visualstudio.com/_apis/public/build/definitions/8b5ba8e6-4059-46da-8ac1-e2bcf922c889/11/badge)
 
 Content Search Category plugin for Telligent Community.
 
